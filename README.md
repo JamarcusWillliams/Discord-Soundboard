@@ -12,6 +12,7 @@ Discord Soundboard is a custom Discord bot designed to play sound clips in voice
 ### Prerequisites
 - Node.js v16 or newer.
 - A Discord Bot Token. 
+- Install the required dependencies including `discord.js`, `@discordjs/voice`, `ffmpeg`, and `libsodium-wrappers`. To do so, navigate to the directory folder through your terminal and type 'npm' install. 
 
 ### Configuration
 - Place your `.mp3` sound files in the `sounds` directory.
